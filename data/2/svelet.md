@@ -5,7 +5,7 @@ So I thought of getting into IT.
 
 I was always interested in software development from my college days. So i wanted to get started with this feild.
 
-As a everyone who gets into software-development i started with udemy , i did courses on web development [this course]("https://www.udemy.com/course/the-complete-web-development-bootcamp/") gave me a proper intro to web development. As of all courses it introduced me to react.
+As a everyone who gets into software-development i started with udemy , i did courses on web development [this course](https://www.udemy.com/course/the-complete-web-development-bootcamp/) gave me a proper intro to web development. As of all courses it introduced me to react.
 
 React felt like a awesome tool i started experimenting implementing demo and test projects with it. That was the time(early 2020's) when react hooks started to get traction, so it was a natural and default for me to get into reactcamp.
 
