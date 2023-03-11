@@ -3,6 +3,14 @@
         "id":1,
         "title":"Blazor Server Sent Events",
         "details":"So I decided to implement a cleint library myself. But as i sat down to implement the Realtime service my library went and got stuck because of same problem.So i invesigated serached all kinds of forums and finally sat down to read the docs there i found what i was doing wrong.",
-        "file":"data/1/Blazor_SSE.md"
+        "file":"data/1/Blazor_SSE.md",
+        "thumbimg":"data/1/pblogo.svg"
+    },
+    {
+        "id":2,
+        "title":"Why i love svelete 😍",
+        "details":"Svelete felt like magic its reactivity model was what pulled me towards it. I was a early adopter of the svelte3.I had tried vue but it was bit too much of javascript for me",
+        "file":"data/2/svelet.md",
+        "thumbimg":"data/2/svletelogo.png"
     }
 ]
