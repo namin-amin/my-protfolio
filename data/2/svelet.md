@@ -36,6 +36,6 @@ But still svelete eventhough was consistantly becoming one of the most loved fra
 
 Although the community of svlete is small comapred to something like React the community is growing at an exponential rate without a horizon.State if Js survey is a proof of it.
 
-<img src="data/2/stofjs.png" alt="svelte" width="600" heigt="300"/>
+<img src="data/2/stofjs.jpg" alt="svelte" width="600" heigt="300"/>
 
 This is website is also built with svlete ofcoarse.
