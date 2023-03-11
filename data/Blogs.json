@@ -1,0 +1,8 @@
+[
+    {
+        "id":1,
+        "title":"Blazor Server Sent Events",
+        "details":"So I decided to implement a cleint library myself. But as i sat down to implement the Realtime service my library went and got stuck because of same problem.So i invesigated serached all kinds of forums and finally sat down to read the docs there i found what i was doing wrong.",
+        "file":"data/1/Blazor_SSE.md"
+    }
+]
