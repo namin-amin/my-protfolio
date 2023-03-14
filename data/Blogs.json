@@ -8,7 +8,7 @@
     },
     {
         "id":2,
-        "title":"Why i love svelete 😍",
+        "title":"Why i love svelte 😍",
         "details":"Svelete felt like magic its reactivity model was what pulled me towards it. I was a early adopter of the svelte3.I had tried vue but it was bit too much of javascript for me",
         "file":"data/2/svelet.md",
         "thumbimg":"data/2/svletelogo.png"
