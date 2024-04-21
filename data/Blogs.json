@@ -12,5 +12,12 @@
         "details":"Svelete felt like magic its reactivity model was what pulled me towards it. I was a early adopter of the svelte3.I had tried vue but it was bit too much of javascript for me",
         "file":"data/2/svelet.md",
         "thumbimg":"data/2/svletelogo.png"
+    },
+    {
+        "id": 3,
+        "title": "How i became a Gopher",
+        "details": "Why started learning golang and building stuff with its",
+        "file": "data/3/became-goher.md",
+        "thumbimg": "data/3/gopher-blue.png"
     }
 ]
